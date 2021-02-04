@@ -48,7 +48,7 @@
 type connectWithMe = 'hire' | 'just chat' | 'help' | 'teach' | 'say anything' |  | null
 ```
 <p align="center">
-  <a href="https://www.alihadiozturk.com"><img src="https://img.shields.io/badge/alihadiozturk.com-20123a?style=flat&logo=firefox"/></a>
+  <a href="https://alihadiozturk.com"><img src="https://img.shields.io/badge/alihadiozturk.com-20123a?style=flat&logo=firefox"/></a>
   <a href="https://linkedin.com/in/AliHadiOzturk"><img src="https://img.shields.io/badge/Ali%20Hadi%20Öztürk-0E76A8?style=flat&logo=Linkedin"/></a>
   <a href="mailto:ozturkalihadi@gmail.com"><img src="https://img.shields.io/badge/ozturkalihadi@gmail.com-d6d6d6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjUyIDQyIDg4IDY2Ij4KPHBhdGggZmlsbD0iIzQyODVmNCIgZD0iTTU4IDEwOGgxNFY3NEw1MiA1OXY0M2MwIDMuMzIgMi42OSA2IDYgNiIvPgo8cGF0aCBmaWxsPSIjMzRhODUzIiBkPSJNMTIwIDEwOGgxNGMzLjMyIDAgNi0yLjY5IDYtNlY1OWwtMjAgMTUiLz4KPHBhdGggZmlsbD0iI2ZiYmMwNCIgZD0iTTEyMCA0OHYyNmwyMC0xNXYtOGMwLTcuNDItOC40Ny0xMS42NS0xNC40LTcuMiIvPgo8cGF0aCBmaWxsPSIjZWE0MzM1IiBkPSJNNzIgNzRWNDhsMjQgMTggMjQtMTh2MjZMOTYgOTIiLz4KPHBhdGggZmlsbD0iI2M1MjIxZiIgZD0iTTUyIDUxdjhsMjAgMTVWNDhsLTUuNi00LjJjLTUuOTQtNC40NS0xNC40LS4yMi0xNC40IDcuMiIvPgo8L3N2Zz4="/></a>
   <a href="https://www.twitter.com/AliHadiOzturk"><img src="https://img.shields.io/badge/AliHadiOzturk-1DA1F2?style=flat&logo=twitter&logoColor=ffffff"/></a>
