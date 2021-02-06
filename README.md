@@ -45,7 +45,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=E47911)&nbsp;
 
 ```typescript
-type connectWithMe = 'hire' | 'just chat' | 'help' | 'teach' | 'say anything' |  | null
+type connectWithMe = 'hire' | 'just chat' | 'help' | 'teach' | 'say anything' |  null
 ```
 <p align="center">
   <a href="https://alihadiozturk.com"><img src="https://img.shields.io/badge/alihadiozturk.com-20123a?style=flat&logo=firefox"/></a>
