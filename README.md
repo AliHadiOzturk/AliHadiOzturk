@@ -36,13 +36,19 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### Technologies that i know 
-![Firefox](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=firefox)&nbsp;
+### Databases i used
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+
+### Cloud Providers that i used and tried
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=E47911)&nbsp;
+
+### Operation System that i know
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+
+### Browser that i use
+![Firefox](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=firefox)&nbsp;
 
 ```typescript
 type connectWithMe = 'hire' | 'just chat' | 'help' | 'teach' | 'say anything' |  null
