@@ -39,9 +39,10 @@
 ### Databases i used
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-### Cloud Providers that i used and tried
+<!-- ### Cloud Providers that i used and tried
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=E47911)&nbsp;
+-->
 
 ### Operation System that i know
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
