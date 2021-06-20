@@ -1,7 +1,6 @@
 ## Hi there 👋 
 
 - 🔭 I'm just a programmer who passionate about learning new things and overcome that challenges thrown at me. 😎
-- 🎓 I'm trying to learn AI, Machine Learning and more about Cloud Provider services and how to implement these in real life
 
 
 ### What did i build until now ?
