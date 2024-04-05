@@ -10,7 +10,7 @@
 - Rest APIs
 
 
-### Languages that i know
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
@@ -18,7 +18,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
-### Frameworks/Libraries that i know
+### Frameworks/Libraries
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
@@ -32,15 +32,18 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCA1NCAzMyI+PGcgY2xpcC1wYXRoPSJ1cmwoI3ByZWZpeF9fY2xpcDApIj48cGF0aCBmaWxsPSIjMDZCNkQ0IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNyAwYy03LjIgMC0xMS43IDMuNi0xMy41IDEwLjggMi43LTMuNiA1Ljg1LTQuOTUgOS40NS00LjA1IDIuMDU0LjUxMyAzLjUyMiAyLjAwNCA1LjE0NyAzLjY1M0MzMC43NDQgMTMuMDkgMzMuODA4IDE2LjIgNDAuNSAxNi4yYzcuMiAwIDExLjctMy42IDEzLjUtMTAuOC0yLjcgMy42LTUuODUgNC45NS05LjQ1IDQuMDUtMi4wNTQtLjUxMy0zLjUyMi0yLjAwNC01LjE0Ny0zLjY1M0MzNi43NTYgMy4xMSAzMy42OTIgMCAyNyAwek0xMy41IDE2LjJDNi4zIDE2LjIgMS44IDE5LjggMCAyN2MyLjctMy42IDUuODUtNC45NSA5LjQ1LTQuMDUgMi4wNTQuNTE0IDMuNTIyIDIuMDA0IDUuMTQ3IDMuNjUzQzE3LjI0NCAyOS4yOSAyMC4zMDggMzIuNCAyNyAzMi40YzcuMiAwIDExLjctMy42IDEzLjUtMTAuOC0yLjcgMy42LTUuODUgNC45NS05LjQ1IDQuMDUtMi4wNTQtLjUxMy0zLjUyMi0yLjAwNC01LjE0Ny0zLjY1M0MyMy4yNTYgMTkuMzEgMjAuMTkyIDE2LjIgMTMuNSAxNi4yeiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0icHJlZml4X19jbGlwMCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGg1NHYzMi40SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
 
+### Services
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
 
-### Tools that i use when developing anything
+### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-### Databases i used
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
