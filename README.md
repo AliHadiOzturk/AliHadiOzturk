@@ -1,75 +1,132 @@
-## Hi there 👋 
+<!-- Banner / Header -->
 
-- 🔭 I'm just a programmer who passionate about learning new things and overcome that challenges thrown at me. 😎
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+things+that+matter;Crafting+scalable+%26+performant+systems;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  </a>
+</p>
 
+<br />
 
-### What did i build until now ?
-- Web apps
-- Mobile Apps
-- Desktop Apps
-- Rest APIs
+<!-- About Me -->
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="technologist" width="30" /> About Me
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-
-### Frameworks/Libraries
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Gin Framework](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
-![Tauri](https://img.shields.io/badge/-Tauri-05122A?style=flat&logo=tauri)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
-
-### Services
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
-
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-
-<!-- ### Cloud Providers that i used and tried
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=E47911)&nbsp;
--->
-
-### Operation System that i know
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macos)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-
-### Browser that i use
-![Firefox](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=firefox)&nbsp;
-![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=google-chrome)&nbsp;
+> Passionate full-stack developer who thrives on challenges and loves building things that matter. Turning complex problems into elegant, performant code is what drives me.
 
 ```typescript
-type connectWithMe = 'hire' | 'just chat' | 'help' | 'teach'
+const aliHadi = {
+    role: "Full-Stack Developer",
+    passions: ["Clean Code", "System Design", "User Experience", "Continuous Learning", "High Scale Systems"],
+    connectWithMe: "hire" | "just chat" | "help" | "teach"
+}
 ```
+
+<br />
+
+<!-- Tech Stack -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="tools" width="30" /> Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff&labelColor=1a1a2e" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=1a1a2e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=1a1a2e" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=fff&labelColor=1a1a2e" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=1a1a2e" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff&labelColor=1a1a2e" alt="Java" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=1a1a2e" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff&labelColor=1a1a2e" alt="Redux" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff&labelColor=1a1a2e" alt="Angular" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=1a1a2e" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=1a1a2e" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=1a1a2e" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff&labelColor=1a1a2e" alt="Electron" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=fff&labelColor=1a1a2e" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=fff&labelColor=1a1a2e" alt="Xamarin" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=1a1a2e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff&labelColor=1a1a2e" alt=".NET" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff&labelColor=1a1a2e" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff&labelColor=1a1a2e" alt="Spring" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=fff&labelColor=1a1a2e" alt="Gin" />
+</p>
+
+### Databases & Services
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=1a1a2e" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff&labelColor=1a1a2e" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000&labelColor=1a1a2e" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff&labelColor=1a1a2e" alt="Supabase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff&labelColor=1a1a2e" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff&labelColor=1a1a2e" alt="Git" />
+</p>
+
+<br />
+
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="stats" width="30" /> GitHub Analytics
+
 <p align="center">
-  <a href="https://alihadiozturk.com"><img src="https://img.shields.io/badge/alihadiozturk.com-20123a?style=flat&logo=firefox"/></a>
-  <a href="https://linkedin.com/in/AliHadiOzturk"><img src="https://img.shields.io/badge/Ali%20Hadi%20Öztürk-0E76A8?style=flat&logo=Linkedin"/></a>
-  <a href="mailto:ozturkalihadi@gmail.com"><img src="https://img.shields.io/badge/ozturkalihadi@gmail.com-d6d6d6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjUyIDQyIDg4IDY2Ij4KPHBhdGggZmlsbD0iIzQyODVmNCIgZD0iTTU4IDEwOGgxNFY3NEw1MiA1OXY0M2MwIDMuMzIgMi42OSA2IDYgNiIvPgo8cGF0aCBmaWxsPSIjMzRhODUzIiBkPSJNMTIwIDEwOGgxNGMzLjMyIDAgNi0yLjY5IDYtNlY1OWwtMjAgMTUiLz4KPHBhdGggZmlsbD0iI2ZiYmMwNCIgZD0iTTEyMCA0OHYyNmwyMC0xNXYtOGMwLTcuNDItOC40Ny0xMS42NS0xNC40LTcuMiIvPgo8cGF0aCBmaWxsPSIjZWE0MzM1IiBkPSJNNzIgNzRWNDhsMjQgMTggMjQtMTh2MjZMOTYgOTIiLz4KPHBhdGggZmlsbD0iI2M1MjIxZiIgZD0iTTUyIDUxdjhsMjAgMTVWNDhsLTUuNi00LjJjLTUuOTQtNC40NS0xNC40LS4yMi0xNC40IDcuMiIvPgo8L3N2Zz4="/></a>
-  <a href="https://www.twitter.com/AliHadiOzturk"><img src="https://img.shields.io/badge/AliHadiOzturk-1DA1F2?style=flat&logo=twitter&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/alihadiozturk%239516-525252?style=flat&logo=discord"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihadiozturk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=667eea&icon_color=764ba2&text_color=cfcfcf&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihadiozturk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=cfcfcf" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alihadiozturk&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=667eea&ring=764ba2&fire=ff9f43&currStreakLabel=667eea&sideLabels=cfcfcf&currStreakNum=ff9f43&sideNums=cfcfcf" alt="GitHub Streak" />
+</p>
+
+<br />
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihadiozturk&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=667eea&line=764ba2&point=ff9f43" alt="Contribution Graph" />
+</p> -->
+
+<br />
+
+<!-- Connect -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="contact" width="30" /> Connect With Me
+
+<p align="center">
+  <a href="https://alihadiozturk.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a2e" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/AliHadiOzturk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ozturkalihadi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Gmail" />
+  </a>
+  <a href="https://www.twitter.com/AliHadiOzturk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e" alt="Twitter" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" alt="Discord" />
+  </a>
+</p>
+
+<br />
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt="footer" />
 </p>
